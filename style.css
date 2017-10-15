@@ -3,6 +3,10 @@
   margin: 0 auto;
 }
 
+#start {
+    margin-top: 24%;
+}
+
 .main {
   width: 100%;
   border: 1px solid black;
